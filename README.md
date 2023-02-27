@@ -1,5 +1,5 @@
 # Glavni naslov
-Testni repozitorij.
+Testni repozitorij...
 
 ## Naslov druge razine
 [-] odabir opcije 1
